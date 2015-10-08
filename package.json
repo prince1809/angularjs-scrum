@@ -1,0 +1,19 @@
+{
+  "name": "angularjs-scrum",
+  "version": "1.0.0",
+  "description": "A sample application based on angular js",
+  "main": "admin-projects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince1809/angularjs-scrum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince1809/angularjs-scrum/issues"
+  },
+  "homepage": "https://github.com/prince1809/angularjs-scrum#readme"
+}
