@@ -1,8 +1,3 @@
-/*! angularjs-scrum - v1.0.0 - 2015-10-12
- * https://github.com/prince1809/angularjs-scrum#readme
- * Copyright (c) 2015 Prince Kumar (prince1809);
- * Licensed 
- */
 angular.module('app', [
   'ngRoute',
   'projectsinfo',
@@ -38,9 +33,3 @@ angular.module('app').run(['security', function(security) {
   // Get the current suser when the application starts
   security.requestCurrentUser();
 }])
-
-angular.module('templates.app', []);
-
-
-angular.module('templates.common', []);
-
