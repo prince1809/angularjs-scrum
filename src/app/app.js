@@ -1,7 +1,7 @@
 angular.module('app', [
   'ngRoute',
-  //'projectsinfo',
-//  'dashboard',
+  'projectsinfo',
+  //'dashboard',
 //  'projects',
 //  'admin',
 //  'services.breadcrumbs',
